@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hux:home|Door43 (hux)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hux|d43-hux repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hux/archive/master.zip|d43-hux.zip]]
+
+**Recent Changes**
+{{changes>ns = hux}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hux|Ethnologue data]]
+
